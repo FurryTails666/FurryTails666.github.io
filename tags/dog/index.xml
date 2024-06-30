@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dog on FurryTails</title>
+    <link>https://demo.gethugothemes.com/liva/examplesite/tags/dog/</link>
+    <description>Recent content in Dog on FurryTails</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 Jun 2024 10:07:47 +0800</lastBuildDate>
+    <atom:link href="https://demo.gethugothemes.com/liva/examplesite/tags/dog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FurryTails|Graceful Goldens: Discovering the Golden Retriever</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/breed-goldenretriever/</link>
+      <pubDate>Mon, 17 Jun 2024 10:07:47 +0800</pubDate>
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/breed-goldenretriever/</guid>
+      <description>FurryTails|Graceful Goldens: Discovering the Golden Retriever Introduction Golden Retrievers are a captivating and beloved breed of dog, originally developed in Scotland.</description>
+    </item>
+    <item>
+      <title>FurryTails|Introduction to Corgis: The Royal Canine Companion</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/breed-corgis/</link>
+      <pubDate>Mon, 10 Jun 2024 10:07:47 +0800</pubDate>
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/breed-corgis/</guid>
+      <description>FurryTails|Introduction to Corgis: The Royal Canine Companion Introduction Meet the Corgi, a small but mighty breed known for its adorable short legs, expressive face, and cheerful personality.</description>
+    </item>
+    <item>
+      <title>FurryTails|Introduction to Huskies: Your Guide to this Energetic Breed</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/breed-huskies/</link>
+      <pubDate>Mon, 03 Jun 2024 10:07:47 +0800</pubDate>
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/breed-huskies/</guid>
+      <description>FurryTails|Introduction to Huskies: Your Guide to this Energetic Breed Introduction Siberian Huskies are a captivating and charming breed of dog, originally bred in the Siberian region.</description>
+    </item>
+  </channel>
+</rss>
