@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on FurryTails</title>
-    <link>https://demo.gethugothemes.com/liva/examplesite/tags/</link>
+    <link>https://FurryTails666.github.io/tags/</link>
     <description>Recent content in Tags on FurryTails</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 17 Jun 2024 10:07:47 +0800</lastBuildDate>
-    <atom:link href="https://demo.gethugothemes.com/liva/examplesite/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://FurryTails666.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Breed</title>
-      <link>https://demo.gethugothemes.com/liva/examplesite/tags/breed/</link>
+      <link>https://FurryTails666.github.io/tags/breed/</link>
       <pubDate>Mon, 17 Jun 2024 10:07:47 +0800</pubDate>
-      <guid>https://demo.gethugothemes.com/liva/examplesite/tags/breed/</guid>
+      <guid>https://FurryTails666.github.io/tags/breed/</guid>
       <description></description>
     </item>
     <item>
       <title>Dog</title>
-      <link>https://demo.gethugothemes.com/liva/examplesite/tags/dog/</link>
+      <link>https://FurryTails666.github.io/tags/dog/</link>
       <pubDate>Mon, 17 Jun 2024 10:07:47 +0800</pubDate>
-      <guid>https://demo.gethugothemes.com/liva/examplesite/tags/dog/</guid>
+      <guid>https://FurryTails666.github.io/tags/dog/</guid>
       <description></description>
     </item>
   </channel>
