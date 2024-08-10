@@ -2,6 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://FurryTails666.github.io/tags/cat/</loc>
+    <lastmod>2024-08-10T10:07:47+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://FurryTails666.github.io/categories/</loc>
+    <lastmod>2024-08-10T10:07:47+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://FurryTails666.github.io/tags/funfacts/</loc>
+    <lastmod>2024-08-10T10:07:47+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://FurryTails666.github.io/categories/funfacts/</loc>
+    <lastmod>2024-08-10T10:07:47+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://FurryTails666.github.io/</loc>
+    <lastmod>2024-08-10T10:07:47+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://FurryTails666.github.io/blog/funfacts-cateyes/</loc>
+    <lastmod>2024-08-10T10:07:47+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://FurryTails666.github.io/tags/</loc>
+    <lastmod>2024-08-10T10:07:47+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://FurryTails666.github.io/tags/behavior/</loc>
     <lastmod>2024-08-10T03:07:47+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -12,27 +47,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://FurryTails666.github.io/tags/cat/</loc>
-    <lastmod>2024-08-10T03:07:47+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://FurryTails666.github.io/categories/</loc>
-    <lastmod>2024-08-10T03:07:47+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://FurryTails666.github.io/</loc>
-    <lastmod>2024-08-10T03:07:47+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://FurryTails666.github.io/blog/behavior-catfeed/</loc>
-    <lastmod>2024-08-10T03:07:47+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://FurryTails666.github.io/tags/</loc>
     <lastmod>2024-08-10T03:07:47+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -57,16 +72,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://FurryTails666.github.io/tags/fun-facts/</loc>
-    <lastmod>2024-08-06T10:07:47+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://FurryTails666.github.io/categories/fun-facts/</loc>
-    <lastmod>2024-08-06T10:07:47+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://FurryTails666.github.io/blog/funfacts-catpaws/</loc>
     <lastmod>2024-08-06T10:07:47+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -84,6 +89,11 @@
   </url><url>
     <loc>https://FurryTails666.github.io/blog/funfacts-dogfollow/</loc>
     <lastmod>2024-08-04T10:07:47+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://FurryTails666.github.io/blog/funfacts-catear/</loc>
+    <lastmod>2024-08-03T10:07:47+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
