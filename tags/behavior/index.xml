@@ -2,38 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Behavior on FurryTails</title>
-    <link>https://FurryTails666.github.io/tags/behavior/</link>
+    <link>http://localhost:1313/tags/behavior/</link>
     <description>Recent content in Behavior on FurryTails</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Aug 2024 03:07:47 +0800</lastBuildDate>
-    <atom:link href="https://FurryTails666.github.io/tags/behavior/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>FurryTails|How to Deal with a Finicky Cat: Tips to Make Mealtime More Enjoyable</title>
-      <link>https://FurryTails666.github.io/blog/behavior-catfeed/</link>
-      <pubDate>Sat, 10 Aug 2024 03:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/blog/behavior-catfeed/</guid>
-      <description>FurryTails | What Foods Are Unsafe for Cats? A Must-Read for New Cat Owners Have you ever felt frustrated because your cat is being so picky about its food?</description>
-    </item>
+    <lastBuildDate>Fri, 09 Aug 2024 03:07:47 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/behavior/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FurryTails|Is Your Cat Overweight? Top Strategies and Practical Tips to Boost Their Activity</title>
-      <link>https://FurryTails666.github.io/blog/behavior-catweight/</link>
+      <link>http://localhost:1313/blog/behavior-catweight/</link>
       <pubDate>Fri, 09 Aug 2024 03:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/blog/behavior-catweight/</guid>
+      <guid>http://localhost:1313/blog/behavior-catweight/</guid>
       <description>FurryTails | Is Your Cat Overweight? Top Strategies and Practical Tips to Boost Their Activity When you notice that your cat is overweight, increasing their activity level is crucial.</description>
     </item>
     <item>
-      <title>FurryTails|Why Do Cats Love Hiding in Small Spaces? Understanding Their Instincts</title>
-      <link>https://FurryTails666.github.io/blog/behavior-cathidden/</link>
-      <pubDate>Fri, 26 Jul 2024 10:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/blog/behavior-cathidden/</guid>
-      <description>FurryTails | Why Do Cats Love Hiding in Small Spaces? Understanding Their Natural Instincts Introduction Have you ever wondered where your cat has disappeared to, only to find them in a small, obscure space like a cardboard box, a closet, or even a pot?</description>
-    </item>
-    <item>
       <title>FurryTails|Can Cats Eat Seafood? Debunking Myths About Cats Eating Seafood</title>
-      <link>https://FurryTails666.github.io/blog/behavior-catseafood/</link>
+      <link>http://localhost:1313/blog/behavior-catseafood/</link>
       <pubDate>Tue, 23 Jul 2024 10:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/blog/behavior-catseafood/</guid>
+      <guid>http://localhost:1313/blog/behavior-catseafood/</guid>
       <description>FurryTails | Can Cats Eat Seafood? Debunking Myths About Cats Eating Seafood Introduction Growing up, we often saw cats in cartoons happily munching on fish.</description>
     </item>
   </channel>
