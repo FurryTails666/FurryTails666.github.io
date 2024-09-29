@@ -304,8 +304,8 @@ Please note that my website participates in various affiliate marketing programs
 
 </body>
 
-          
-  
+      
+      
 
 <section class="section">
   <div class="container">
@@ -327,19 +327,19 @@ Please note that my website participates in various affiliate marketing programs
 
 
   
-  
-     <script>
-         document.addEventListener("DOMContentLoaded", function() {
+      
+         <script>
+             document.addEventListener("DOMContentLoaded", function() {
+               
+               const links = document.querySelectorAll('a[href^="http"]');
+               
+               links.forEach(function(link) {
+                 if (link.hostname !== window.location.hostname) {
+                   link.setAttribute("target", "_blank");
+                   link.setAttribute("rel", "noopener noreferrer");
+                 }
+               });
+             });
+           </script>
            
-           const links = document.querySelectorAll('a[href^="http"]');
-           
-           links.forEach(function(link) {
-             if (link.hostname !== window.location.hostname) {
-               link.setAttribute("target", "_blank");
-               link.setAttribute("rel", "noopener noreferrer");
-             }
-           });
-         });
-       </script>
-       
 </html>
