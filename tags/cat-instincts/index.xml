@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cat Instincts on FurryTails</title>
-    <link>https://FurryTails666.github.io/tags/cat-instincts/</link>
+    <link>http://localhost:1313/tags/cat-instincts/</link>
     <description>Recent content in Cat Instincts on FurryTails</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 06 Aug 2024 10:07:47 +0800</lastBuildDate>
-    <atom:link href="https://FurryTails666.github.io/tags/cat-instincts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/cat-instincts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why Are Cats So Protective of Their Paws? Unraveling the Mystery Behind Their Sacred Tools - FurryTails</title>
-      <link>https://FurryTails666.github.io/blog/funfacts-catpaws/</link>
+      <link>http://localhost:1313/blog/funfacts-catpaws/</link>
       <pubDate>Tue, 06 Aug 2024 10:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/blog/funfacts-catpaws/</guid>
+      <guid>http://localhost:1313/blog/funfacts-catpaws/</guid>
       <description>Why Are Cats So Protective of Their Paws? Unraveling the Mystery Behind Their Sacred Tools Have you ever wondered why your cat is so protective of their paws and prefers not to have them touched?</description>
     </item>
   </channel>

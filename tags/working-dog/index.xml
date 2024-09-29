@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Working Dog on FurryTails</title>
-    <link>https://FurryTails666.github.io/tags/working-dog/</link>
+    <link>http://localhost:1313/tags/working-dog/</link>
     <description>Recent content in Working Dog on FurryTails</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Jul 2024 10:07:47 +0800</lastBuildDate>
-    <atom:link href="https://FurryTails666.github.io/tags/working-dog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/working-dog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Discovering the German Shepherd: The Ultimate Working Dog - FurryTails</title>
-      <link>https://FurryTails666.github.io/blog/breed-germanshepherd/</link>
+      <link>http://localhost:1313/blog/breed-germanshepherd/</link>
       <pubDate>Fri, 12 Jul 2024 10:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/blog/breed-germanshepherd/</guid>
+      <guid>http://localhost:1313/blog/breed-germanshepherd/</guid>
       <description>Discovering the German Shepherd: The Ultimate Working Dog Introduction The German Shepherd is a breed renowned for its intelligence, strength, and loyalty.</description>
     </item>
   </channel>

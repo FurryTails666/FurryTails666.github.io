@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Breed on FurryTails</title>
-    <link>https://FurryTails666.github.io/tags/breed/</link>
+    <link>http://localhost:1313/tags/breed/</link>
     <description>Recent content in Breed on FurryTails</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Jul 2024 10:07:47 +0800</lastBuildDate>
-    <atom:link href="https://FurryTails666.github.io/tags/breed/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/breed/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to Beagles: Your Guide to This Playful and Loyal Breed - FurryTails</title>
-      <link>https://FurryTails666.github.io/blog/breed-beagle/</link>
+      <link>http://localhost:1313/blog/breed-beagle/</link>
       <pubDate>Sun, 14 Jul 2024 10:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/blog/breed-beagle/</guid>
+      <guid>http://localhost:1313/blog/breed-beagle/</guid>
       <description>Introduction to Beagles: Your Guide to This Playful and Loyal Breed Introduction Beagles are one of the most popular dog breeds, known for their friendly and lively personalities.</description>
     </item>
     <item>
       <title>Discovering the German Shepherd: The Ultimate Working Dog - FurryTails</title>
-      <link>https://FurryTails666.github.io/blog/breed-germanshepherd/</link>
+      <link>http://localhost:1313/blog/breed-germanshepherd/</link>
       <pubDate>Fri, 12 Jul 2024 10:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/blog/breed-germanshepherd/</guid>
+      <guid>http://localhost:1313/blog/breed-germanshepherd/</guid>
       <description>Discovering the German Shepherd: The Ultimate Working Dog Introduction The German Shepherd is a breed renowned for its intelligence, strength, and loyalty.</description>
     </item>
     <item>
       <title>Spotlight on Dalmatians: Your Guide to This Unique Breed - FurryTails</title>
-      <link>https://FurryTails666.github.io/blog/breed-dalmatian/</link>
+      <link>http://localhost:1313/blog/breed-dalmatian/</link>
       <pubDate>Tue, 09 Jul 2024 10:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/blog/breed-dalmatian/</guid>
+      <guid>http://localhost:1313/blog/breed-dalmatian/</guid>
       <description>Spotlight on Dalmatians: Your Guide to This Unique Breed Introduction Dalmatians are a distinctive and striking breed of dog, instantly recognizable by their unique black or liver spots on a white coat.</description>
     </item>
     <item>
       <title>Graceful Goldens: Discovering the Golden Retriever - FurryTails</title>
-      <link>https://FurryTails666.github.io/blog/breed-goldenretriever/</link>
+      <link>http://localhost:1313/blog/breed-goldenretriever/</link>
       <pubDate>Mon, 17 Jun 2024 10:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/blog/breed-goldenretriever/</guid>
+      <guid>http://localhost:1313/blog/breed-goldenretriever/</guid>
       <description>Graceful Goldens: Discovering the Golden Retriever Introduction Golden Retrievers are a captivating and beloved breed originally developed in Scotland.</description>
     </item>
     <item>
       <title>Introduction to Corgi Dogs: The Royal Canine Companion - FurryTails</title>
-      <link>https://FurryTails666.github.io/blog/breed-corgis/</link>
+      <link>http://localhost:1313/blog/breed-corgis/</link>
       <pubDate>Mon, 10 Jun 2024 10:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/blog/breed-corgis/</guid>
+      <guid>http://localhost:1313/blog/breed-corgis/</guid>
       <description>Introduction to Corgi Dogs: The Royal Canine Companion Introduction Meet the Corgi dog, a small but mighty breed known for its adorable short legs, expressive face, and cheerful personality.</description>
     </item>
     <item>
       <title>Introduction to Huskies: Your Guide to This Energetic Breed - FurryTails</title>
-      <link>https://FurryTails666.github.io/blog/breed-huskies/</link>
+      <link>http://localhost:1313/blog/breed-huskies/</link>
       <pubDate>Mon, 03 Jun 2024 10:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/blog/breed-huskies/</guid>
+      <guid>http://localhost:1313/blog/breed-huskies/</guid>
       <description>Introduction to Huskies: Your Guide to This Energetic Breed Introduction Siberian Huskies are a captivating and charming breed originally from the Siberian region.</description>
     </item>
   </channel>

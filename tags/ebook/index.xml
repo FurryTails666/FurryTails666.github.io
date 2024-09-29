@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EBook on FurryTails</title>
-    <link>https://FurryTails666.github.io/tags/ebook/</link>
+    <link>http://localhost:1313/tags/ebook/</link>
     <description>Recent content in EBook on FurryTails</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Aug 2024 03:07:47 +0800</lastBuildDate>
-    <atom:link href="https://FurryTails666.github.io/tags/ebook/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/ebook/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Essential Guides to Enhancing Pet Behavior: Three Must-Read Books - FurryTails</title>
-      <link>https://FurryTails666.github.io/blog/products-ebook/</link>
+      <link>http://localhost:1313/blog/products-ebook/</link>
       <pubDate>Sun, 11 Aug 2024 03:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/blog/products-ebook/</guid>
+      <guid>http://localhost:1313/blog/products-ebook/</guid>
       <description>Essential Guides to Enhancing Pet Behavior: Three Must-Read Books Pets are more than just companions—they&amp;rsquo;re part of our families.</description>
     </item>
   </channel>

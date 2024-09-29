@@ -1,46 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on FurryTails</title>
+    <title>Categories on 毛茸茸的尾巴</title>
     <link>https://FurryTails666.github.io/categories/</link>
-    <description>Recent content in Categories on FurryTails</description>
+    <description>Recent content in Categories on 毛茸茸的尾巴</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Aug 2024 03:07:47 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 05:07:47 +0800</lastBuildDate>
     <atom:link href="https://FurryTails666.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Products</title>
-      <link>https://FurryTails666.github.io/categories/products/</link>
-      <pubDate>Sun, 11 Aug 2024 03:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/categories/products/</guid>
+      <title>汪星人</title>
+      <link>https://FurryTails666.github.io/categories/%E6%B1%AA%E6%98%9F%E4%BA%BA/</link>
+      <pubDate>Sun, 29 Sep 2024 05:07:47 +0800</pubDate>
+      <guid>https://FurryTails666.github.io/categories/%E6%B1%AA%E6%98%9F%E4%BA%BA/</guid>
       <description></description>
     </item>
     <item>
-      <title>FunFacts</title>
-      <link>https://FurryTails666.github.io/categories/funfacts/</link>
-      <pubDate>Sat, 10 Aug 2024 10:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/categories/funfacts/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Behavior</title>
-      <link>https://FurryTails666.github.io/categories/behavior/</link>
-      <pubDate>Sat, 10 Aug 2024 03:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/categories/behavior/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Care&amp;Health</title>
-      <link>https://FurryTails666.github.io/categories/carehealth/</link>
-      <pubDate>Mon, 22 Jul 2024 10:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/categories/carehealth/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Breed</title>
-      <link>https://FurryTails666.github.io/categories/breed/</link>
-      <pubDate>Sun, 14 Jul 2024 10:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/categories/breed/</guid>
+      <title>喵星人</title>
+      <link>https://FurryTails666.github.io/categories/%E5%96%B5%E6%98%9F%E4%BA%BA/</link>
+      <pubDate>Mon, 16 Sep 2024 10:07:47 +0800</pubDate>
+      <guid>https://FurryTails666.github.io/categories/%E5%96%B5%E6%98%9F%E4%BA%BA/</guid>
       <description></description>
     </item>
   </channel>

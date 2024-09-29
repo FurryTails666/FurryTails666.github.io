@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Care&amp;Health on FurryTails</title>
-    <link>https://FurryTails666.github.io/categories/carehealth/</link>
+    <link>http://localhost:1313/categories/carehealth/</link>
     <description>Recent content in Care&amp;Health on FurryTails</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 22 Jul 2024 10:07:47 +0800</lastBuildDate>
-    <atom:link href="https://FurryTails666.github.io/categories/carehealth/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/carehealth/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What Foods Are Unsafe for Cats? A Must-Read for New Cat Owners - FurryTails</title>
-      <link>https://FurryTails666.github.io/blog/care-catcare/</link>
+      <link>http://localhost:1313/blog/care-catcare/</link>
       <pubDate>Mon, 22 Jul 2024 10:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/blog/care-catcare/</guid>
+      <guid>http://localhost:1313/blog/care-catcare/</guid>
       <description>What Foods Are Unsafe for Cats? A Must-Read for New Cat Owners As cat owners, we all want to provide the best care for our furry friends.</description>
     </item>
     <item>
       <title>Essential Guide for Taking Care of Puppies: Tips and Product Recommendations for New Dog Owners - FurryTails</title>
-      <link>https://FurryTails666.github.io/blog/care-puppies/</link>
+      <link>http://localhost:1313/blog/care-puppies/</link>
       <pubDate>Thu, 18 Jul 2024 10:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/blog/care-puppies/</guid>
+      <guid>http://localhost:1313/blog/care-puppies/</guid>
       <description>Essential Guide for Taking Care of Puppies: Tips and Product Recommendations for New Dog Owners Introduction Puppies are irresistibly cute and endearing, making many people eager to raise them from a young age.</description>
     </item>
     <item>
       <title>How to Choose the Best Pet Shampoo: Golden Rules for Keeping Your Pet&#39;s Skin and Coat Healthy - FurryTails</title>
-      <link>https://FurryTails666.github.io/blog/care-shampoo/</link>
+      <link>http://localhost:1313/blog/care-shampoo/</link>
       <pubDate>Tue, 16 Jul 2024 10:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/blog/care-shampoo/</guid>
+      <guid>http://localhost:1313/blog/care-shampoo/</guid>
       <description>How to Choose the Best Pet Shampoo: Golden Rules for Keeping Your Pet&amp;rsquo;s Skin and Coat Healthy As more pet owners opt for at-home baths, selecting the right pet shampoo becomes crucial.</description>
     </item>
     <item>
       <title>Dog Dental Chews: Starting and Choosing Guide - FurryTails</title>
-      <link>https://FurryTails666.github.io/blog/care-dental/</link>
+      <link>http://localhost:1313/blog/care-dental/</link>
       <pubDate>Tue, 02 Jul 2024 10:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/blog/care-dental/</guid>
+      <guid>http://localhost:1313/blog/care-dental/</guid>
       <description>Dog Dental Chews: Starting and Choosing Guide As dog owners become more aware of the importance of oral health for their pets, dental chews have emerged as a popular tool for maintaining a dog&amp;rsquo;s teeth and gums.</description>
     </item>
   </channel>

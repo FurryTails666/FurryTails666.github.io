@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Products on FurryTails</title>
-    <link>https://FurryTails666.github.io/categories/products/</link>
+    <link>http://localhost:1313/categories/products/</link>
     <description>Recent content in Products on FurryTails</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Aug 2024 03:07:47 +0800</lastBuildDate>
-    <atom:link href="https://FurryTails666.github.io/categories/products/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Essential Guides to Enhancing Pet Behavior: Three Must-Read Books - FurryTails</title>
-      <link>https://FurryTails666.github.io/blog/products-ebook/</link>
+      <link>http://localhost:1313/blog/products-ebook/</link>
       <pubDate>Sun, 11 Aug 2024 03:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/blog/products-ebook/</guid>
+      <guid>http://localhost:1313/blog/products-ebook/</guid>
       <description>Essential Guides to Enhancing Pet Behavior: Three Must-Read Books Pets are more than just companions—they&amp;rsquo;re part of our families.</description>
     </item>
     <item>
       <title>Essential Items for Cat Owners: A Comprehensive Guide from Beginners to Experts - FurryTails</title>
-      <link>https://FurryTails666.github.io/blog/care-catessential/</link>
+      <link>http://localhost:1313/blog/care-catessential/</link>
       <pubDate>Thu, 08 Aug 2024 03:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/blog/care-catessential/</guid>
+      <guid>http://localhost:1313/blog/care-catessential/</guid>
       <description>Essential Items for Cat Owners: A Comprehensive Guide from Beginners to Experts Bringing a new cat into your home can be both an exciting and overwhelming experience.</description>
     </item>
     <item>
       <title>What is Freeze-Dried Pet Food? FAQ on Freeze-Dried Pet Food - FurryTails</title>
-      <link>https://FurryTails666.github.io/blog/products-freeze-dried/</link>
+      <link>http://localhost:1313/blog/products-freeze-dried/</link>
       <pubDate>Sat, 20 Jul 2024 10:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/blog/products-freeze-dried/</guid>
+      <guid>http://localhost:1313/blog/products-freeze-dried/</guid>
       <description>What is Freeze-Dried Pet Food? FAQ on Freeze-Dried Pet Food Freeze-dried pet food is made by rapidly freezing raw meat ingredients and removing moisture in a vacuum low-temperature environment.</description>
     </item>
     <item>
       <title>Choosing the Best Leash Tool for Your Dog: Collar or Harness? - FurryTails</title>
-      <link>https://FurryTails666.github.io/blog/products-collar/</link>
+      <link>http://localhost:1313/blog/products-collar/</link>
       <pubDate>Mon, 24 Jun 2024 10:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/blog/products-collar/</guid>
+      <guid>http://localhost:1313/blog/products-collar/</guid>
       <description>Choosing the Best Leash Tool for Your Dog: Collar or Harness?</description>
     </item>
     <item>
       <title>Ultimate Guide to Choosing and Recommending Cat Litter - FurryTails</title>
-      <link>https://FurryTails666.github.io/blog/products-catlitter/</link>
+      <link>http://localhost:1313/blog/products-catlitter/</link>
       <pubDate>Mon, 24 Jun 2024 10:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/blog/products-catlitter/</guid>
+      <guid>http://localhost:1313/blog/products-catlitter/</guid>
       <description>Ultimate Guide to Choosing and Recommending Cat Litter Choosing the best cat litter for your feline companion is essential for maintaining their health, comfort, and your daily cleaning routine.</description>
     </item>
   </channel>

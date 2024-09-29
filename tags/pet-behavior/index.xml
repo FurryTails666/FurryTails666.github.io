@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pet Behavior on FurryTails</title>
-    <link>https://FurryTails666.github.io/tags/pet-behavior/</link>
+    <link>http://localhost:1313/tags/pet-behavior/</link>
     <description>Recent content in Pet Behavior on FurryTails</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 04 Aug 2024 10:07:47 +0800</lastBuildDate>
-    <atom:link href="https://FurryTails666.github.io/tags/pet-behavior/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/pet-behavior/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why Do Cats and Dogs Follow You to the Bathroom? Top 5 Reasons Explained - FurryTails</title>
-      <link>https://FurryTails666.github.io/blog/funfacts-dogfollow/</link>
+      <link>http://localhost:1313/blog/funfacts-dogfollow/</link>
       <pubDate>Sun, 04 Aug 2024 10:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/blog/funfacts-dogfollow/</guid>
+      <guid>http://localhost:1313/blog/funfacts-dogfollow/</guid>
       <description>Why Do Cats and Dogs Follow You to the Bathroom? Top 5 Reasons Explained Have you ever noticed your pet staring at you while you’re in the bathroom or scratching at the door when it’s closed?</description>
     </item>
   </channel>

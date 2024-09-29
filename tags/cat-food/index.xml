@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cat Food on FurryTails</title>
-    <link>https://FurryTails666.github.io/tags/cat-food/</link>
+    <link>http://localhost:1313/tags/cat-food/</link>
     <description>Recent content in Cat Food on FurryTails</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Aug 2024 03:07:47 +0800</lastBuildDate>
-    <atom:link href="https://FurryTails666.github.io/tags/cat-food/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/cat-food/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Deal with a Finicky Cat: Tips to Make Mealtime More Enjoyable - FurryTails</title>
-      <link>https://FurryTails666.github.io/blog/behavior-catfeed/</link>
+      <link>http://localhost:1313/blog/behavior-catfeed/</link>
       <pubDate>Sat, 10 Aug 2024 03:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/blog/behavior-catfeed/</guid>
+      <guid>http://localhost:1313/blog/behavior-catfeed/</guid>
       <description>How to Deal with a Finicky Cat: Tips to Make Mealtime More Enjoyable Does your cat always turn its nose up at food?</description>
     </item>
   </channel>

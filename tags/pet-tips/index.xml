@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pet Tips on FurryTails</title>
-    <link>https://FurryTails666.github.io/tags/pet-tips/</link>
+    <link>http://localhost:1313/tags/pet-tips/</link>
     <description>Recent content in Pet Tips on FurryTails</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 26 Jul 2024 10:07:47 +0800</lastBuildDate>
-    <atom:link href="https://FurryTails666.github.io/tags/pet-tips/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/pet-tips/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why Do Cats Love Hiding in Small Spaces? Understanding Their Instincts - FurryTails</title>
-      <link>https://FurryTails666.github.io/blog/behavior-cathidden/</link>
+      <link>http://localhost:1313/blog/behavior-cathidden/</link>
       <pubDate>Fri, 26 Jul 2024 10:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/blog/behavior-cathidden/</guid>
+      <guid>http://localhost:1313/blog/behavior-cathidden/</guid>
       <description>Why Do Cats Love Hiding in Small Spaces? Understanding Their Natural Instincts Cats are known for disappearing into the smallest of spaces, whether it&amp;rsquo;s a cardboard box, under the bed, or inside a closet.</description>
     </item>
   </channel>

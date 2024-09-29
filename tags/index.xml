@@ -1,214 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on FurryTails</title>
+    <title>Tags on 毛茸茸的尾巴</title>
     <link>https://FurryTails666.github.io/tags/</link>
-    <description>Recent content in Tags on FurryTails</description>
+    <description>Recent content in Tags on 毛茸茸的尾巴</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Aug 2024 03:07:47 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 05:07:47 +0800</lastBuildDate>
     <atom:link href="https://FurryTails666.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Care&amp;health</title>
-      <link>https://FurryTails666.github.io/tags/carehealth/</link>
-      <pubDate>Sun, 11 Aug 2024 03:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/tags/carehealth/</guid>
+      <title>寵物</title>
+      <link>https://FurryTails666.github.io/tags/%E5%AF%B5%E7%89%A9/</link>
+      <pubDate>Sun, 29 Sep 2024 05:07:47 +0800</pubDate>
+      <guid>https://FurryTails666.github.io/tags/%E5%AF%B5%E7%89%A9/</guid>
       <description></description>
     </item>
     <item>
-      <title>Cat</title>
-      <link>https://FurryTails666.github.io/tags/cat/</link>
-      <pubDate>Sun, 11 Aug 2024 03:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/tags/cat/</guid>
+      <title>汪星人</title>
+      <link>https://FurryTails666.github.io/tags/%E6%B1%AA%E6%98%9F%E4%BA%BA/</link>
+      <pubDate>Sun, 29 Sep 2024 05:07:47 +0800</pubDate>
+      <guid>https://FurryTails666.github.io/tags/%E6%B1%AA%E6%98%9F%E4%BA%BA/</guid>
       <description></description>
     </item>
     <item>
-      <title>Dog</title>
-      <link>https://FurryTails666.github.io/tags/dog/</link>
-      <pubDate>Sun, 11 Aug 2024 03:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/tags/dog/</guid>
+      <title>產品</title>
+      <link>https://FurryTails666.github.io/tags/%E7%94%A2%E5%93%81/</link>
+      <pubDate>Sun, 29 Sep 2024 05:07:47 +0800</pubDate>
+      <guid>https://FurryTails666.github.io/tags/%E7%94%A2%E5%93%81/</guid>
       <description></description>
     </item>
     <item>
-      <title>EBook</title>
-      <link>https://FurryTails666.github.io/tags/ebook/</link>
-      <pubDate>Sun, 11 Aug 2024 03:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/tags/ebook/</guid>
+      <title>品種介紹</title>
+      <link>https://FurryTails666.github.io/tags/%E5%93%81%E7%A8%AE%E4%BB%8B%E7%B4%B9/</link>
+      <pubDate>Fri, 27 Sep 2024 13:07:47 +0800</pubDate>
+      <guid>https://FurryTails666.github.io/tags/%E5%93%81%E7%A8%AE%E4%BB%8B%E7%B4%B9/</guid>
       <description></description>
     </item>
     <item>
-      <title>Products</title>
-      <link>https://FurryTails666.github.io/tags/products/</link>
-      <pubDate>Sun, 11 Aug 2024 03:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/tags/products/</guid>
+      <title>喵星人</title>
+      <link>https://FurryTails666.github.io/tags/%E5%96%B5%E6%98%9F%E4%BA%BA/</link>
+      <pubDate>Wed, 25 Sep 2024 13:07:47 +0800</pubDate>
+      <guid>https://FurryTails666.github.io/tags/%E5%96%B5%E6%98%9F%E4%BA%BA/</guid>
       <description></description>
     </item>
     <item>
-      <title>Behavior</title>
-      <link>https://FurryTails666.github.io/tags/behavior/</link>
-      <pubDate>Sat, 10 Aug 2024 10:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/tags/behavior/</guid>
+      <title>小知識</title>
+      <link>https://FurryTails666.github.io/tags/%E5%B0%8F%E7%9F%A5%E8%AD%98/</link>
+      <pubDate>Wed, 25 Sep 2024 13:07:47 +0800</pubDate>
+      <guid>https://FurryTails666.github.io/tags/%E5%B0%8F%E7%9F%A5%E8%AD%98/</guid>
       <description></description>
     </item>
     <item>
-      <title>Communication</title>
-      <link>https://FurryTails666.github.io/tags/communication/</link>
-      <pubDate>Sat, 10 Aug 2024 10:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/tags/communication/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>FunFacts</title>
-      <link>https://FurryTails666.github.io/tags/funfacts/</link>
-      <pubDate>Sat, 10 Aug 2024 10:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/tags/funfacts/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cat Behavior</title>
-      <link>https://FurryTails666.github.io/tags/cat-behavior/</link>
-      <pubDate>Sat, 10 Aug 2024 03:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/tags/cat-behavior/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cat Food</title>
-      <link>https://FurryTails666.github.io/tags/cat-food/</link>
-      <pubDate>Sat, 10 Aug 2024 03:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/tags/cat-food/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pet Nutrition</title>
-      <link>https://FurryTails666.github.io/tags/pet-nutrition/</link>
-      <pubDate>Sat, 10 Aug 2024 03:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/tags/pet-nutrition/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pet Health</title>
-      <link>https://FurryTails666.github.io/tags/pet-health/</link>
-      <pubDate>Fri, 09 Aug 2024 03:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/tags/pet-health/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Weight Management</title>
-      <link>https://FurryTails666.github.io/tags/weight-management/</link>
-      <pubDate>Fri, 09 Aug 2024 03:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/tags/weight-management/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cat Instincts</title>
-      <link>https://FurryTails666.github.io/tags/cat-instincts/</link>
-      <pubDate>Tue, 06 Aug 2024 10:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/tags/cat-instincts/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dog Behavior</title>
-      <link>https://FurryTails666.github.io/tags/dog-behavior/</link>
-      <pubDate>Mon, 05 Aug 2024 10:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/tags/dog-behavior/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dog Health</title>
-      <link>https://FurryTails666.github.io/tags/dog-health/</link>
-      <pubDate>Mon, 05 Aug 2024 10:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/tags/dog-health/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Curious Pets</title>
-      <link>https://FurryTails666.github.io/tags/curious-pets/</link>
-      <pubDate>Sun, 04 Aug 2024 10:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/tags/curious-pets/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pet Behavior</title>
-      <link>https://FurryTails666.github.io/tags/pet-behavior/</link>
-      <pubDate>Sun, 04 Aug 2024 10:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/tags/pet-behavior/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hiding</title>
-      <link>https://FurryTails666.github.io/tags/hiding/</link>
-      <pubDate>Fri, 26 Jul 2024 10:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/tags/hiding/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pet Tips</title>
-      <link>https://FurryTails666.github.io/tags/pet-tips/</link>
-      <pubDate>Fri, 26 Jul 2024 10:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/tags/pet-tips/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Puppies</title>
-      <link>https://FurryTails666.github.io/tags/puppies/</link>
-      <pubDate>Thu, 18 Jul 2024 10:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/tags/puppies/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Beagle</title>
-      <link>https://FurryTails666.github.io/tags/beagle/</link>
-      <pubDate>Sun, 14 Jul 2024 10:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/tags/beagle/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Breed</title>
-      <link>https://FurryTails666.github.io/tags/breed/</link>
-      <pubDate>Sun, 14 Jul 2024 10:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/tags/breed/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pet Care</title>
-      <link>https://FurryTails666.github.io/tags/pet-care/</link>
-      <pubDate>Sun, 14 Jul 2024 10:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/tags/pet-care/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>German Shepherd</title>
-      <link>https://FurryTails666.github.io/tags/german-shepherd/</link>
-      <pubDate>Fri, 12 Jul 2024 10:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/tags/german-shepherd/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Working Dog</title>
-      <link>https://FurryTails666.github.io/tags/working-dog/</link>
-      <pubDate>Fri, 12 Jul 2024 10:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/tags/working-dog/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Golden Retriever</title>
-      <link>https://FurryTails666.github.io/tags/golden-retriever/</link>
-      <pubDate>Mon, 17 Jun 2024 10:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/tags/golden-retriever/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Energetic Dogs</title>
-      <link>https://FurryTails666.github.io/tags/energetic-dogs/</link>
-      <pubDate>Mon, 03 Jun 2024 10:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/tags/energetic-dogs/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Siberian Husky</title>
-      <link>https://FurryTails666.github.io/tags/siberian-husky/</link>
-      <pubDate>Mon, 03 Jun 2024 10:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/tags/siberian-husky/</guid>
+      <title>照顧與健康</title>
+      <link>https://FurryTails666.github.io/tags/%E7%85%A7%E9%A1%A7%E8%88%87%E5%81%A5%E5%BA%B7/</link>
+      <pubDate>Wed, 25 Sep 2024 13:07:47 +0800</pubDate>
+      <guid>https://FurryTails666.github.io/tags/%E7%85%A7%E9%A1%A7%E8%88%87%E5%81%A5%E5%BA%B7/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Puppies on FurryTails</title>
-    <link>https://FurryTails666.github.io/tags/puppies/</link>
+    <link>http://localhost:1313/tags/puppies/</link>
     <description>Recent content in Puppies on FurryTails</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 18 Jul 2024 10:07:47 +0800</lastBuildDate>
-    <atom:link href="https://FurryTails666.github.io/tags/puppies/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/puppies/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Essential Guide for Taking Care of Puppies: Tips and Product Recommendations for New Dog Owners - FurryTails</title>
-      <link>https://FurryTails666.github.io/blog/care-puppies/</link>
+      <link>http://localhost:1313/blog/care-puppies/</link>
       <pubDate>Thu, 18 Jul 2024 10:07:47 +0800</pubDate>
-      <guid>https://FurryTails666.github.io/blog/care-puppies/</guid>
+      <guid>http://localhost:1313/blog/care-puppies/</guid>
       <description>Essential Guide for Taking Care of Puppies: Tips and Product Recommendations for New Dog Owners Introduction Puppies are irresistibly cute and endearing, making many people eager to raise them from a young age.</description>
     </item>
   </channel>
